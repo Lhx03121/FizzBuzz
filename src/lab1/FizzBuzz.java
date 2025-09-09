@@ -12,7 +12,6 @@ class FizzBuzz {
 
     private static void doFizzBuzz() {
         int i = 1;
-
         while (i < 100) {
 
             // Find out which numbers divide i.
